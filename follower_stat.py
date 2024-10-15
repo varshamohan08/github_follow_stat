@@ -43,4 +43,4 @@ def get_github_follow_stats(username):
     print(f"Following: {len(following)}")
 
 # Replace 'username' with your GitHub username
-get_github_follow_stats('varshamohan08')
+get_github_follow_stats('username')
