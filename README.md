@@ -49,5 +49,5 @@ Contributions are welcome! If you would like to make any changes, please open an
 #### Author
 Developed by [varshamohan08](https://github.com/varshamohan08). Feel free to reach out with questions or suggestions.
 
-#### Disclaimer
-This project was created for fun and as a way to explore the GitHub API. If you encounter any issues or have concerns, please feel free to reach out. I’ll be happy to address them or take down the project if needed.
+### ***Disclaimer***
+***This project was created for fun and as a way to explore the GitHub API. If you encounter any issues or have concerns, please feel free to reach out. I’ll be happy to address them or take down the project if needed.***
