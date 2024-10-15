@@ -41,7 +41,7 @@ This project provides a Python script to fetch and analyze the follow statistics
 Be mindful of GitHub’s API rate limits.
 If you run into rate limits, you can use a personal access token (PAT) for higher request limits by passing it to the headers in the request.
 #### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/varshamohan08/github_follow_stat/blob/main/LICENSE) file for more details.
 
 #### Contributing
 Contributions are welcome! If you would like to make any changes, please open an issue or create a pull request.
