@@ -17,13 +17,13 @@ This project provides a Python script to fetch and analyze the follow statistics
 #### Usage
 - Clone the repository:
   ```
-  git clone <repository-url>
-  cd <repository-directory>
+  git clone https://github.com/varshamohan08/github_follow_stat.git
+  cd github_follow_stat
   ```
 - Update the username:
   Replace the following line in the script with the desired GitHub username:
   ```
-  get_github_follow_stats('varshamohan08')
+  get_github_follow_stats('username')
   ```
 - Run the script:
   ```
